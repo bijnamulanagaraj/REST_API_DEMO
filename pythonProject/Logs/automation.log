@@ -1,0 +1,550 @@
+2023-11-08 11:26:10,078 - root - INFO - ***** verifying User list *****
+2023-11-08 11:26:10,906 - root - INFO - ***** response code 200 is passed
+2023-11-08 11:26:10,907 - root - INFO - ***** User list validated t*****
+2023-11-08 11:26:10,922 - root - INFO - ***** verifying single user *****
+2023-11-08 11:26:11,602 - root - INFO - ***** Usertext is passed
+2023-11-08 11:26:11,603 - root - INFO - ***** SingleUser is validated *****
+2023-11-08 11:26:11,617 - root - INFO - ***** verifying user_not_found *****
+2023-11-08 11:26:12,849 - root - INFO - ***** user_not_found is validated
+2023-11-08 11:26:12,863 - root - INFO - ***** verifying new_user is created *****
+2023-11-08 11:26:13,957 - root - INFO - ***** creating new_user test is passed *****
+2023-11-08 11:26:13,958 - root - INFO - ***** creating new_user is validated *****
+2023-11-08 11:26:13,972 - root - INFO - ***** verifying update_existing_user *****
+2023-11-08 11:26:15,187 - root - INFO - ***** update_existing_user test is passed *****
+2023-11-08 11:26:15,188 - root - INFO - ***** update_existing_user is validated *****
+2023-11-08 11:26:15,201 - root - INFO - ***** verifying delete_existing_user *****
+2023-11-08 11:26:16,310 - root - INFO - ***** delete_existing_user is validated
+2023-11-08 11:26:16,324 - root - INFO - ***** verifying user_signUp Sucessfully *****
+2023-11-08 11:26:17,444 - root - INFO - ***** user_signUp is validated Successfully *****
+2023-11-08 11:26:17,459 - root - INFO - ***** verifying unSuccessfull register *****
+2023-11-08 11:26:18,668 - root - INFO - ***** unSuccessfull regster validated *****
+2023-11-08 11:26:18,683 - root - INFO - ***** verifying user_login Test *****
+2023-11-08 11:26:19,838 - root - INFO - ***** verifying user_login Test *****
+2023-11-08 11:26:19,853 - root - INFO - ***** verifying user_login_failed *****
+2023-11-08 11:26:21,021 - root - INFO - ***** user_login_failed test is passed 
+2023-11-08 11:26:21,021 - root - INFO - ***** user_login_failed is valideted *****
+2023-11-08 11:32:01,261 - root - INFO - ***** verifying User list *****
+2023-11-08 11:32:02,208 - root - INFO - ***** response code 200 is passed
+2023-11-08 11:32:02,209 - root - INFO - ***** User list validated t*****
+2023-11-08 11:32:02,226 - root - INFO - ***** verifying single user *****
+2023-11-08 11:32:03,063 - root - INFO - ***** Usertext is passed
+2023-11-08 11:32:03,064 - root - INFO - ***** SingleUser is validated *****
+2023-11-08 11:32:03,081 - root - INFO - ***** verifying user_not_found *****
+2023-11-08 11:32:04,245 - root - INFO - ***** user_not_found is validated
+2023-11-08 11:32:04,261 - root - INFO - ***** verifying new_user is created *****
+2023-11-08 11:32:05,371 - root - INFO - ***** creating new_user test is passed *****
+2023-11-08 11:32:05,372 - root - INFO - ***** creating new_user is validated *****
+2023-11-08 11:32:05,379 - root - INFO - ***** verifying update_existing_user *****
+2023-11-08 11:32:06,499 - root - INFO - ***** update_existing_user test is passed *****
+2023-11-08 11:32:06,499 - root - INFO - ***** update_existing_user is validated *****
+2023-11-08 11:32:06,507 - root - INFO - ***** verifying delete_existing_user *****
+2023-11-08 11:32:07,727 - root - INFO - ***** delete_existing_user is validated
+2023-11-08 11:32:07,734 - root - INFO - ***** verifying user_signUp Sucessfully *****
+2023-11-08 11:32:09,468 - root - INFO - ***** user_signUp is validated Successfully *****
+2023-11-08 11:32:09,474 - root - INFO - ***** verifying unSuccessfull register *****
+2023-11-08 11:32:10,606 - root - INFO - ***** unSuccessfull regster validated *****
+2023-11-08 11:32:10,613 - root - INFO - ***** verifying user_login Test *****
+2023-11-08 11:32:11,822 - root - INFO - ***** verifying user_login Test *****
+2023-11-08 11:32:11,830 - root - INFO - ***** verifying user_login_failed *****
+2023-11-08 11:32:13,358 - root - INFO - ***** user_login_failed test is passed 
+2023-11-08 11:32:13,358 - root - INFO - ***** user_login_failed is valideted *****
+2023-11-08 11:51:34,202 - root - INFO - ***** verifying User list *****
+2023-11-08 11:51:34,940 - root - INFO - ***** response code 200 is passed
+2023-11-08 11:51:34,942 - root - INFO - ***** User list validated t*****
+2023-11-08 11:51:34,957 - root - INFO - ***** verifying single user *****
+2023-11-08 11:51:36,190 - root - INFO - ***** Usertext is passed
+2023-11-08 11:51:36,191 - root - INFO - ***** SingleUser is validated *****
+2023-11-08 11:51:36,206 - root - INFO - ***** verifying user_not_found *****
+2023-11-08 11:51:37,048 - root - INFO - ***** user_not_found is validated
+2023-11-08 11:51:37,064 - root - INFO - ***** verifying new_user is created *****
+2023-11-08 11:51:38,157 - root - INFO - ***** creating new_user test is passed *****
+2023-11-08 11:51:38,159 - root - INFO - ***** creating new_user is validated *****
+2023-11-08 11:51:38,174 - root - INFO - ***** verifying update_existing_user *****
+2023-11-08 11:51:39,387 - root - INFO - ***** update_existing_user test is passed *****
+2023-11-08 11:51:39,387 - root - INFO - ***** update_existing_user is validated *****
+2023-11-08 11:51:39,401 - root - INFO - ***** verifying delete_existing_user *****
+2023-11-08 11:51:40,514 - root - INFO - ***** delete_existing_user is validated
+2023-11-08 11:51:40,527 - root - INFO - ***** verifying user_signUp Sucessfully *****
+2023-11-08 11:51:41,845 - root - INFO - ***** user_signUp is validated Successfully *****
+2023-11-08 11:51:41,860 - root - INFO - ***** verifying unSuccessfull register *****
+2023-11-08 11:51:43,075 - root - INFO - ***** unSuccessfull regster validated *****
+2023-11-08 11:51:43,090 - root - INFO - ***** verifying user_login Test *****
+2023-11-08 11:51:44,237 - root - INFO - ***** verifying user_login Test *****
+2023-11-08 11:51:44,252 - root - INFO - ***** verifying user_login_failed *****
+2023-11-08 11:51:45,434 - root - INFO - ***** user_login_failed test is passed 
+2023-11-08 11:51:45,434 - root - INFO - ***** user_login_failed is valideted *****
+2023-11-08 11:52:01,513 - root - INFO - ***** verifying single user *****
+2023-11-08 11:52:02,428 - root - INFO - ***** Usertext is passed
+2023-11-08 11:52:02,429 - root - INFO - ***** SingleUser is validated *****
+2023-11-08 11:59:00,092 - root - INFO - ***** verifying single user *****
+2023-11-08 11:59:00,962 - root - INFO - ***** Usertext is passed
+2023-11-08 11:59:00,962 - root - INFO - ***** SingleUser is validated *****
+2023-11-08 12:00:13,698 - root - INFO - ***** verifying single user *****
+2023-11-08 12:00:14,769 - root - INFO - ***** Usertext is passed
+2023-11-08 12:00:14,796 - root - INFO - ***** SingleUser is validated *****
+2023-11-08 12:21:14,577 - root - INFO - ***** verifying User list *****
+2023-11-08 12:21:15,698 - root - INFO - ***** response code 200 is passed
+2023-11-08 12:21:15,699 - root - INFO - ***** User list validated t*****
+2023-11-08 12:21:15,715 - root - INFO - ***** verifying single user *****
+2023-11-08 12:21:16,948 - root - INFO - ***** Usertext is passed
+2023-11-08 12:21:16,949 - root - INFO - ***** SingleUser is validated *****
+2023-11-08 12:21:16,965 - root - INFO - ***** verifying user_not_found *****
+2023-11-08 12:21:18,175 - root - INFO - ***** user_not_found is validated
+2023-11-08 12:21:18,182 - root - INFO - ***** verifying new_user is created *****
+2023-11-08 12:21:19,405 - root - INFO - ***** creating new_user test is passed *****
+2023-11-08 12:21:19,405 - root - INFO - ***** creating new_user is validated *****
+2023-11-08 12:21:19,421 - root - INFO - ***** verifying update_existing_user *****
+2023-11-08 12:21:20,535 - root - INFO - ***** update_existing_user test is passed *****
+2023-11-08 12:21:20,536 - root - INFO - ***** update_existing_user is validated *****
+2023-11-08 12:21:20,550 - root - INFO - ***** verifying delete_existing_user *****
+2023-11-08 12:21:21,672 - root - INFO - ***** delete_existing_user is validated
+2023-11-08 12:21:21,685 - root - INFO - ***** verifying user_signUp Sucessfully *****
+2023-11-08 12:21:22,785 - root - INFO - ***** user_signUp is validated Successfully *****
+2023-11-08 12:21:22,799 - root - INFO - ***** verifying unSuccessfull register *****
+2023-11-08 12:21:23,856 - root - INFO - ***** unSuccessfull regster validated *****
+2023-11-08 12:21:23,873 - root - INFO - ***** verifying user_login Test *****
+2023-11-08 12:21:25,036 - root - INFO - ***** verifying user_login Test *****
+2023-11-08 12:21:25,043 - root - INFO - ***** verifying user_login_failed *****
+2023-11-08 12:21:26,266 - root - INFO - ***** user_login_failed test is passed 
+2023-11-08 12:21:26,266 - root - INFO - ***** user_login_failed is valideted *****
+2023-11-08 12:51:53,692 - root - INFO - ***** verifying User list *****
+2023-11-08 12:51:54,743 - root - INFO - ***** response code 200 is passed
+2023-11-08 12:51:54,744 - root - INFO - ***** User list validated t*****
+2023-11-08 12:51:54,754 - root - INFO - ***** verifying single user *****
+2023-11-08 12:51:55,736 - root - INFO - ***** Usertext is passed
+2023-11-08 12:51:55,737 - root - INFO - ***** SingleUser is validated *****
+2023-11-08 12:51:55,752 - root - INFO - ***** verifying user_not_found *****
+2023-11-08 12:51:56,798 - root - INFO - ***** user_not_found is validated
+2023-11-08 12:51:56,811 - root - INFO - ***** verifying new_user is created *****
+2023-11-08 12:51:57,834 - root - INFO - ***** creating new_user test is passed *****
+2023-11-08 12:51:57,835 - root - INFO - ***** creating new_user is validated *****
+2023-11-08 12:51:57,848 - root - INFO - ***** verifying update_existing_user *****
+2023-11-08 12:51:58,874 - root - INFO - ***** update_existing_user test is passed *****
+2023-11-08 12:51:58,874 - root - INFO - ***** update_existing_user is validated *****
+2023-11-08 12:51:58,881 - root - INFO - ***** verifying delete_existing_user *****
+2023-11-08 12:51:59,781 - root - INFO - ***** delete_existing_user is validated
+2023-11-08 12:51:59,795 - root - INFO - ***** verifying user_signUp Sucessfully *****
+2023-11-08 12:52:00,803 - root - INFO - ***** user_signUp is validated Successfully *****
+2023-11-08 12:52:00,823 - root - INFO - ***** verifying unSuccessfull register *****
+2023-11-08 12:52:01,843 - root - INFO - ***** unSuccessfull regster validated *****
+2023-11-08 12:52:01,853 - root - INFO - ***** verifying user_login Test *****
+2023-11-08 12:52:02,860 - root - INFO - ***** verifying user_login Test *****
+2023-11-08 12:52:02,871 - root - INFO - ***** verifying user_login_failed *****
+2023-11-08 12:52:03,770 - root - INFO - ***** user_login_failed test is passed 
+2023-11-08 12:52:03,771 - root - INFO - ***** user_login_failed is valideted *****
+2023-11-08 12:52:40,770 - root - INFO - ***** verifying User list *****
+2023-11-08 12:52:41,444 - root - INFO - ***** response code 200 is passed
+2023-11-08 12:52:41,445 - root - INFO - ***** User list validated t*****
+2023-11-08 12:52:41,451 - root - INFO - ***** verifying single user *****
+2023-11-08 12:52:42,093 - root - INFO - ***** Usertext is passed
+2023-11-08 12:52:42,094 - root - INFO - ***** SingleUser is validated *****
+2023-11-08 12:52:42,098 - root - INFO - ***** verifying user_not_found *****
+2023-11-08 12:52:42,720 - root - INFO - ***** user_not_found is validated
+2023-11-08 12:52:42,733 - root - INFO - ***** verifying new_user is created *****
+2023-11-08 12:52:43,786 - root - INFO - ***** creating new_user test is passed *****
+2023-11-08 12:52:43,787 - root - INFO - ***** creating new_user is validated *****
+2023-11-08 12:52:43,797 - root - INFO - ***** verifying update_existing_user *****
+2023-11-08 12:52:44,826 - root - INFO - ***** update_existing_user test is passed *****
+2023-11-08 12:52:44,826 - root - INFO - ***** update_existing_user is validated *****
+2023-11-08 12:52:44,838 - root - INFO - ***** verifying delete_existing_user *****
+2023-11-08 12:52:45,821 - root - INFO - ***** delete_existing_user is validated
+2023-11-08 12:52:45,833 - root - INFO - ***** verifying user_signUp Sucessfully *****
+2023-11-08 12:52:46,748 - root - INFO - ***** user_signUp is validated Successfully *****
+2023-11-08 12:52:46,757 - root - INFO - ***** verifying unSuccessfull register *****
+2023-11-08 12:52:47,746 - root - INFO - ***** unSuccessfull regster validated *****
+2023-11-08 12:52:47,760 - root - INFO - ***** verifying user_login Test *****
+2023-11-08 12:52:48,686 - root - INFO - ***** verifying user_login Test *****
+2023-11-08 12:52:48,696 - root - INFO - ***** verifying user_login_failed *****
+2023-11-08 12:52:49,588 - root - INFO - ***** user_login_failed test is passed 
+2023-11-08 12:52:49,588 - root - INFO - ***** user_login_failed is valideted *****
+2023-11-08 12:54:36,538 - root - INFO - ***** verifying User list *****
+2023-11-08 12:54:37,602 - root - INFO - ***** response code 200 is passed
+2023-11-08 12:54:37,604 - root - INFO - ***** User list validated t*****
+2023-11-08 12:54:37,617 - root - INFO - ***** verifying single user *****
+2023-11-08 12:54:38,540 - root - INFO - ***** Usertext is passed
+2023-11-08 12:54:38,541 - root - INFO - ***** SingleUser is validated *****
+2023-11-08 12:54:38,550 - root - INFO - ***** verifying user_not_found *****
+2023-11-08 12:54:39,538 - root - INFO - ***** user_not_found is validated
+2023-11-08 12:54:39,551 - root - INFO - ***** verifying new_user is created *****
+2023-11-08 12:54:40,716 - root - INFO - ***** creating new_user test is passed *****
+2023-11-08 12:54:40,717 - root - INFO - ***** creating new_user is validated *****
+2023-11-08 12:54:40,731 - root - INFO - ***** verifying update_existing_user *****
+2023-11-08 12:54:41,731 - root - INFO - ***** update_existing_user test is passed *****
+2023-11-08 12:54:41,731 - root - INFO - ***** update_existing_user is validated *****
+2023-11-08 12:54:41,743 - root - INFO - ***** verifying delete_existing_user *****
+2023-11-08 12:54:42,656 - root - INFO - ***** delete_existing_user is validated
+2023-11-08 12:54:42,665 - root - INFO - ***** verifying user_signUp Sucessfully *****
+2023-11-08 12:54:43,649 - root - INFO - ***** user_signUp is validated Successfully *****
+2023-11-08 12:54:43,665 - root - INFO - ***** verifying unSuccessfull register *****
+2023-11-08 12:54:44,580 - root - INFO - ***** unSuccessfull regster validated *****
+2023-11-08 12:54:44,589 - root - INFO - ***** verifying user_login Test *****
+2023-11-08 12:54:45,559 - root - INFO - ***** verifying user_login Test *****
+2023-11-08 12:54:45,571 - root - INFO - ***** verifying user_login_failed *****
+2023-11-08 12:54:46,477 - root - INFO - ***** user_login_failed test is passed 
+2023-11-08 12:54:46,477 - root - INFO - ***** user_login_failed is valideted *****
+2023-11-08 12:55:19,079 - root - INFO - ***** verifying User list *****
+2023-11-08 12:55:19,761 - root - INFO - ***** response code 200 is passed
+2023-11-08 12:55:19,763 - root - INFO - ***** User list validated t*****
+2023-11-08 12:55:19,771 - root - INFO - ***** verifying single user *****
+2023-11-08 12:55:20,780 - root - INFO - ***** Usertext is passed
+2023-11-08 12:55:20,781 - root - INFO - ***** SingleUser is validated *****
+2023-11-08 12:55:20,795 - root - INFO - ***** verifying user_not_found *****
+2023-11-08 12:55:21,854 - root - INFO - ***** user_not_found is validated
+2023-11-08 12:55:21,867 - root - INFO - ***** verifying new_user is created *****
+2023-11-08 12:55:22,842 - root - INFO - ***** creating new_user test is passed *****
+2023-11-08 12:55:22,843 - root - INFO - ***** creating new_user is validated *****
+2023-11-08 12:55:22,857 - root - INFO - ***** verifying update_existing_user *****
+2023-11-08 12:55:23,839 - root - INFO - ***** update_existing_user test is passed *****
+2023-11-08 12:55:23,839 - root - INFO - ***** update_existing_user is validated *****
+2023-11-08 12:55:23,853 - root - INFO - ***** verifying delete_existing_user *****
+2023-11-08 12:55:24,766 - root - INFO - ***** delete_existing_user is validated
+2023-11-08 12:55:24,779 - root - INFO - ***** verifying user_signUp Sucessfully *****
+2023-11-08 12:55:25,781 - root - INFO - ***** user_signUp is validated Successfully *****
+2023-11-08 12:55:25,795 - root - INFO - ***** verifying unSuccessfull register *****
+2023-11-08 12:55:26,705 - root - INFO - ***** unSuccessfull regster validated *****
+2023-11-08 12:55:26,717 - root - INFO - ***** verifying user_login Test *****
+2023-11-08 12:55:27,708 - root - INFO - ***** verifying user_login Test *****
+2023-11-08 12:55:27,717 - root - INFO - ***** verifying user_login_failed *****
+2023-11-08 12:55:28,614 - root - INFO - ***** user_login_failed test is passed 
+2023-11-08 12:55:28,615 - root - INFO - ***** user_login_failed is valideted *****
+2023-11-08 14:52:54,394 - root - INFO - ***** verifying single user *****
+2023-11-08 14:52:55,006 - root - INFO - ***** Usertext is passed
+2023-11-08 14:52:55,058 - root - INFO - ***** SingleUser is validated *****
+2023-11-08 14:57:05,068 - root - INFO - ***** verifying single user *****
+2023-11-08 14:57:05,610 - root - INFO - ***** Usertext is passed
+2023-11-08 14:57:05,639 - root - INFO - ***** SingleUser is validated *****
+2023-11-08 15:13:09,612 - root - INFO - ***** verifying User list *****
+2023-11-08 15:13:10,205 - root - INFO - ***** response code 200 is passed
+2023-11-08 15:13:10,205 - root - INFO - ***** User list validated t*****
+2023-11-08 15:13:10,209 - root - INFO - ***** verifying single user *****
+2023-11-08 15:13:10,874 - root - INFO - ***** Usertext is passed
+2023-11-08 15:13:10,876 - root - INFO - ***** SingleUser is validated *****
+2023-11-08 15:13:10,890 - root - INFO - ***** verifying user_not_found *****
+2023-11-08 15:13:11,821 - root - INFO - ***** user_not_found is validated
+2023-11-08 15:13:11,837 - root - INFO - ***** verifying new_user is created *****
+2023-11-08 15:13:12,763 - root - INFO - ***** creating new_user test is passed *****
+2023-11-08 15:13:12,763 - root - INFO - ***** creating new_user is validated *****
+2023-11-08 15:13:12,768 - root - INFO - ***** verifying update_existing_user *****
+2023-11-08 15:13:13,674 - root - INFO - ***** update_existing_user test is passed *****
+2023-11-08 15:13:13,674 - root - INFO - ***** update_existing_user is validated *****
+2023-11-08 15:13:13,685 - root - INFO - ***** verifying delete_existing_user *****
+2023-11-08 15:13:14,681 - root - INFO - ***** delete_existing_user is validated
+2023-11-08 15:13:14,693 - root - INFO - ***** verifying user_signUp Sucessfully *****
+2023-11-08 15:13:15,718 - root - INFO - ***** user_signUp is validated Successfully *****
+2023-11-08 15:13:15,723 - root - INFO - ***** verifying unSuccessfull register *****
+2023-11-08 15:13:16,652 - root - INFO - ***** unSuccessfull regster validated *****
+2023-11-08 15:13:16,665 - root - INFO - ***** verifying user_login Test *****
+2023-11-08 15:13:17,624 - root - INFO - ***** verifying user_login Test *****
+2023-11-08 15:13:17,636 - root - INFO - ***** verifying user_login_failed *****
+2023-11-08 15:13:18,584 - root - INFO - ***** user_login_failed test is passed 
+2023-11-08 15:13:18,584 - root - INFO - ***** user_login_failed is valideted *****
+2023-11-08 15:14:06,024 - root - INFO - ***** verifying User list *****
+2023-11-08 15:14:07,052 - root - INFO - ***** response code 200 is passed
+2023-11-08 15:14:07,053 - root - INFO - ***** User list validated t*****
+2023-11-08 15:14:07,066 - root - INFO - ***** verifying single user *****
+2023-11-08 15:14:07,632 - root - INFO - ***** Usertext is passed
+2023-11-08 15:14:07,632 - root - INFO - ***** SingleUser is validated *****
+2023-11-08 15:14:07,647 - root - INFO - ***** verifying user_not_found *****
+2023-11-08 15:14:08,595 - root - INFO - ***** user_not_found is validated
+2023-11-08 15:14:08,600 - root - INFO - ***** verifying new_user is created *****
+2023-11-08 15:14:09,506 - root - INFO - ***** creating new_user test is passed *****
+2023-11-08 15:14:09,506 - root - INFO - ***** creating new_user is validated *****
+2023-11-08 15:14:09,511 - root - INFO - ***** verifying update_existing_user *****
+2023-11-08 15:14:10,463 - root - INFO - ***** update_existing_user test is passed *****
+2023-11-08 15:14:10,463 - root - INFO - ***** update_existing_user is validated *****
+2023-11-08 15:14:10,467 - root - INFO - ***** verifying delete_existing_user *****
+2023-11-08 15:14:11,472 - root - INFO - ***** delete_existing_user is validated
+2023-11-08 15:14:11,485 - root - INFO - ***** verifying user_signUp Sucessfully *****
+2023-11-08 15:14:12,429 - root - INFO - ***** user_signUp is validated Successfully *****
+2023-11-08 15:14:12,443 - root - INFO - ***** verifying unSuccessfull register *****
+2023-11-08 15:14:13,468 - root - INFO - ***** unSuccessfull regster validated *****
+2023-11-08 15:14:13,482 - root - INFO - ***** verifying user_login Test *****
+2023-11-08 15:14:14,417 - root - INFO - ***** verifying user_login Test *****
+2023-11-08 15:14:14,431 - root - INFO - ***** verifying user_login_failed *****
+2023-11-08 15:14:15,331 - root - INFO - ***** user_login_failed test is passed 
+2023-11-08 15:14:15,331 - root - INFO - ***** user_login_failed is valideted *****
+2023-11-08 15:21:31,135 - root - INFO - ***** verifying User list *****
+2023-11-08 15:21:31,646 - root - INFO - ***** response code 200 is passed
+2023-11-08 15:21:31,647 - root - INFO - ***** User list validated t*****
+2023-11-08 15:21:31,661 - root - INFO - ***** verifying single user *****
+2023-11-08 15:21:32,184 - root - INFO - ***** Usertext is passed
+2023-11-08 15:21:32,184 - root - INFO - ***** SingleUser is validated *****
+2023-11-08 15:21:32,190 - root - INFO - ***** verifying user_not_found *****
+2023-11-08 15:21:33,120 - root - INFO - ***** user_not_found is validated
+2023-11-08 15:21:33,132 - root - INFO - ***** verifying new_user is created *****
+2023-11-08 15:21:34,166 - root - INFO - ***** creating new_user test is passed *****
+2023-11-08 15:21:34,167 - root - INFO - ***** creating new_user is validated *****
+2023-11-08 15:21:34,178 - root - INFO - ***** verifying update_existing_user *****
+2023-11-08 15:21:35,081 - root - INFO - ***** update_existing_user test is passed *****
+2023-11-08 15:21:35,082 - root - INFO - ***** update_existing_user is validated *****
+2023-11-08 15:21:35,095 - root - INFO - ***** verifying delete_existing_user *****
+2023-11-08 15:21:36,086 - root - INFO - ***** delete_existing_user is validated
+2023-11-08 15:21:36,100 - root - INFO - ***** verifying user_signUp Sucessfully *****
+2023-11-08 15:21:37,072 - root - INFO - ***** user_signUp is validated Successfully *****
+2023-11-08 15:21:37,084 - root - INFO - ***** verifying unSuccessfull register *****
+2023-11-08 15:21:37,985 - root - INFO - ***** unSuccessfull regster validated *****
+2023-11-08 15:21:37,991 - root - INFO - ***** verifying user_login Test *****
+2023-11-08 15:21:38,982 - root - INFO - ***** verifying user_login Test *****
+2023-11-08 15:21:38,996 - root - INFO - ***** verifying user_login_failed *****
+2023-11-08 15:21:39,977 - root - INFO - ***** user_login_failed test is passed 
+2023-11-08 15:21:39,977 - root - INFO - ***** user_login_failed is valideted *****
+2023-11-08 15:22:11,200 - root - INFO - ***** verifying User list *****
+2023-11-08 15:22:11,742 - root - INFO - ***** response code 200 is passed
+2023-11-08 15:22:11,745 - root - INFO - ***** User list validated t*****
+2023-11-08 15:22:11,749 - root - INFO - ***** verifying single user *****
+2023-11-08 15:22:12,290 - root - INFO - ***** Usertext is passed
+2023-11-08 15:22:12,290 - root - INFO - ***** SingleUser is validated *****
+2023-11-08 15:22:12,296 - root - INFO - ***** verifying user_not_found *****
+2023-11-08 15:22:13,232 - root - INFO - ***** user_not_found is validated
+2023-11-08 15:22:13,245 - root - INFO - ***** verifying new_user is created *****
+2023-11-08 15:22:14,205 - root - INFO - ***** creating new_user test is passed *****
+2023-11-08 15:22:14,205 - root - INFO - ***** creating new_user is validated *****
+2023-11-08 15:22:14,216 - root - INFO - ***** verifying update_existing_user *****
+2023-11-08 15:22:15,165 - root - INFO - ***** update_existing_user test is passed *****
+2023-11-08 15:22:15,166 - root - INFO - ***** update_existing_user is validated *****
+2023-11-08 15:22:15,179 - root - INFO - ***** verifying delete_existing_user *****
+2023-11-08 15:22:16,107 - root - INFO - ***** delete_existing_user is validated
+2023-11-08 15:22:16,112 - root - INFO - ***** verifying user_signUp Sucessfully *****
+2023-11-08 15:22:17,128 - root - INFO - ***** user_signUp is validated Successfully *****
+2023-11-08 15:22:17,141 - root - INFO - ***** verifying unSuccessfull register *****
+2023-11-08 15:22:18,127 - root - INFO - ***** unSuccessfull regster validated *****
+2023-11-08 15:22:18,133 - root - INFO - ***** verifying user_login Test *****
+2023-11-08 15:22:19,064 - root - INFO - ***** verifying user_login Test *****
+2023-11-08 15:22:19,067 - root - INFO - ***** verifying user_login_failed *****
+2023-11-08 15:22:19,988 - root - INFO - ***** user_login_failed test is passed 
+2023-11-08 15:22:19,989 - root - INFO - ***** user_login_failed is valideted *****
+2023-11-08 15:25:42,398 - root - INFO - ***** verifying User first_name *****
+2023-11-08 15:25:43,025 - root - INFO - ***** first_name is passed *****
+2023-11-08 15:25:43,025 - root - INFO - ***** user first_name validated *****
+2023-11-08 15:25:43,039 - root - INFO - ***** verifying User list *****
+2023-11-08 15:25:43,570 - root - INFO - ***** response code 200 is passed
+2023-11-08 15:25:43,572 - root - INFO - ***** User list validated t*****
+2023-11-08 15:25:43,577 - root - INFO - ***** verifying single user *****
+2023-11-08 15:25:44,217 - root - INFO - ***** Usertext is passed
+2023-11-08 15:25:44,218 - root - INFO - ***** SingleUser is validated *****
+2023-11-08 15:25:44,233 - root - INFO - ***** verifying user_not_found *****
+2023-11-08 15:25:44,775 - root - INFO - ***** user_not_found is validated
+2023-11-08 15:25:44,788 - root - INFO - ***** verifying new_user is created *****
+2023-11-08 15:25:45,754 - root - INFO - ***** creating new_user test is passed *****
+2023-11-08 15:25:45,756 - root - INFO - ***** creating new_user is validated *****
+2023-11-08 15:25:45,769 - root - INFO - ***** verifying update_existing_user *****
+2023-11-08 15:25:46,679 - root - INFO - ***** update_existing_user test is passed *****
+2023-11-08 15:25:46,679 - root - INFO - ***** update_existing_user is validated *****
+2023-11-08 15:25:46,693 - root - INFO - ***** verifying delete_existing_user *****
+2023-11-08 15:25:47,688 - root - INFO - ***** delete_existing_user is validated
+2023-11-08 15:25:47,699 - root - INFO - ***** verifying user_signUp Sucessfully *****
+2023-11-08 15:25:48,602 - root - INFO - ***** user_signUp is validated Successfully *****
+2023-11-08 15:25:48,615 - root - INFO - ***** verifying unSuccessfull register *****
+2023-11-08 15:25:49,537 - root - INFO - ***** unSuccessfull regster validated *****
+2023-11-08 15:25:49,572 - root - INFO - ***** verifying user_login Test *****
+2023-11-08 15:25:50,577 - root - INFO - ***** verifying user_login Test *****
+2023-11-08 15:25:50,591 - root - INFO - ***** verifying user_login_failed *****
+2023-11-08 15:25:51,522 - root - INFO - ***** user_login_failed test is passed 
+2023-11-08 15:25:51,523 - root - INFO - ***** user_login_failed is valideted *****
+2023-11-08 15:26:51,000 - root - INFO - ***** verifying User first_name *****
+2023-11-08 15:26:51,520 - root - INFO - ***** first_name is passed *****
+2023-11-08 15:26:51,520 - root - INFO - ***** user first_name validated *****
+2023-11-08 15:44:53,514 - root - INFO - ***** verifying User first_name *****
+2023-11-08 15:44:53,606 - root - INFO - ***** verifying User list *****
+2023-11-08 15:44:53,615 - root - INFO - ***** verifying single user *****
+2023-11-08 15:44:53,625 - root - INFO - ***** verifying user_not_found *****
+2023-11-08 15:44:53,632 - root - INFO - ***** verifying new_user is created *****
+2023-11-08 15:44:53,641 - root - INFO - ***** verifying update_existing_user *****
+2023-11-08 15:44:53,650 - root - INFO - ***** verifying delete_existing_user *****
+2023-11-08 15:44:53,657 - root - INFO - ***** verifying user_signUp Sucessfully *****
+2023-11-08 15:44:53,666 - root - INFO - ***** verifying unSuccessfull register *****
+2023-11-08 15:44:53,674 - root - INFO - ***** verifying user_login Test *****
+2023-11-08 15:44:53,686 - root - INFO - ***** verifying user_login_failed *****
+2023-11-08 15:45:52,605 - root - INFO - ***** verifying User first_name *****
+2023-11-08 15:45:53,184 - root - INFO - ***** first_name is passed *****
+2023-11-08 15:45:53,185 - root - INFO - ***** user first_name validated *****
+2023-11-08 15:45:53,190 - root - INFO - ***** verifying User list *****
+2023-11-08 15:45:53,747 - root - INFO - ***** response code 200 is passed
+2023-11-08 15:45:53,749 - root - INFO - ***** User list validated t*****
+2023-11-08 15:45:53,764 - root - INFO - ***** verifying single user *****
+2023-11-08 15:45:54,325 - root - INFO - ***** Usertext is passed
+2023-11-08 15:45:54,326 - root - INFO - ***** SingleUser is validated *****
+2023-11-08 15:45:54,330 - root - INFO - ***** verifying user_not_found *****
+2023-11-08 15:45:54,866 - root - INFO - ***** user_not_found is validated
+2023-11-08 15:45:54,876 - root - INFO - ***** verifying new_user is created *****
+2023-11-08 15:45:55,789 - root - INFO - ***** creating new_user test is passed *****
+2023-11-08 15:45:55,791 - root - INFO - ***** creating new_user is validated *****
+2023-11-08 15:45:55,805 - root - INFO - ***** verifying update_existing_user *****
+2023-11-08 15:45:56,703 - root - INFO - ***** update_existing_user test is passed *****
+2023-11-08 15:45:56,703 - root - INFO - ***** update_existing_user is validated *****
+2023-11-08 15:45:56,707 - root - INFO - ***** verifying delete_existing_user *****
+2023-11-08 15:45:57,578 - root - INFO - ***** delete_existing_user is validated
+2023-11-08 15:45:57,587 - root - INFO - ***** verifying user_signUp Sucessfully *****
+2023-11-08 15:45:58,570 - root - INFO - ***** user_signUp is validated Successfully *****
+2023-11-08 15:45:58,573 - root - INFO - ***** verifying unSuccessfull register *****
+2023-11-08 15:45:59,473 - root - INFO - ***** unSuccessfull regster validated *****
+2023-11-08 15:45:59,486 - root - INFO - ***** verifying user_login Test *****
+2023-11-08 15:46:00,438 - root - INFO - ***** verifying user_login Test *****
+2023-11-08 15:46:00,452 - root - INFO - ***** verifying user_login_failed *****
+2023-11-08 15:46:01,407 - root - INFO - ***** user_login_failed test is passed 
+2023-11-08 15:46:01,407 - root - INFO - ***** user_login_failed is valideted *****
+2023-11-08 15:49:47,056 - root - INFO - ***** verifying User first_name *****
+2023-11-08 15:49:48,248 - root - INFO - ***** verifying User list *****
+2023-11-08 15:49:49,237 - root - INFO - ***** verifying single user *****
+2023-11-08 15:49:50,230 - root - INFO - ***** verifying user_not_found *****
+2023-11-08 15:49:51,197 - root - INFO - ***** user_not_found is validated
+2023-11-08 15:49:51,216 - root - INFO - ***** verifying new_user is created *****
+2023-11-08 15:49:52,245 - root - INFO - ***** verifying update_existing_user *****
+2023-11-08 15:49:53,283 - root - INFO - ***** verifying delete_existing_user *****
+2023-11-08 15:49:54,303 - root - INFO - ***** verifying user_signUp Sucessfully *****
+2023-11-08 15:49:55,283 - root - INFO - ***** verifying unSuccessfull register *****
+2023-11-08 15:49:56,284 - root - INFO - ***** verifying user_login Test *****
+2023-11-08 15:49:57,308 - root - INFO - ***** verifying user_login_failed *****
+2023-11-08 15:52:47,763 - root - INFO - ***** verifying User first_name *****
+2023-11-08 15:52:48,448 - root - INFO - ***** first_name is passed *****
+2023-11-08 15:52:48,448 - root - INFO - ***** user first_name validated *****
+2023-11-08 15:52:48,452 - root - INFO - ***** verifying User list *****
+2023-11-08 15:52:49,080 - root - INFO - ***** response code 200 is passed
+2023-11-08 15:52:49,082 - root - INFO - ***** User list validated t*****
+2023-11-08 15:52:49,093 - root - INFO - ***** verifying single user *****
+2023-11-08 15:52:49,731 - root - INFO - ***** Usertext is passed
+2023-11-08 15:52:49,732 - root - INFO - ***** SingleUser is validated *****
+2023-11-08 15:52:49,746 - root - INFO - ***** verifying user_not_found *****
+2023-11-08 15:52:50,272 - root - INFO - ***** user_not_found is validated
+2023-11-08 15:52:50,287 - root - INFO - ***** verifying new_user is created *****
+2023-11-08 15:52:51,295 - root - INFO - ***** creating new_user test is passed *****
+2023-11-08 15:52:51,296 - root - INFO - ***** creating new_user is validated *****
+2023-11-08 15:52:51,310 - root - INFO - ***** verifying update_existing_user *****
+2023-11-08 15:52:52,241 - root - INFO - ***** update_existing_user test is passed *****
+2023-11-08 15:52:52,242 - root - INFO - ***** update_existing_user is validated *****
+2023-11-08 15:52:52,247 - root - INFO - ***** verifying delete_existing_user *****
+2023-11-08 15:52:53,143 - root - INFO - ***** delete_existing_user is validated
+2023-11-08 15:52:53,147 - root - INFO - ***** verifying user_signUp Sucessfully *****
+2023-11-08 15:52:54,158 - root - INFO - ***** user_signUp is validated Successfully *****
+2023-11-08 15:52:54,170 - root - INFO - ***** verifying unSuccessfull register *****
+2023-11-08 15:52:55,157 - root - INFO - ***** unSuccessfull regster validated *****
+2023-11-08 15:52:55,165 - root - INFO - ***** verifying user_login Test *****
+2023-11-08 15:52:56,077 - root - INFO - ***** verifying user_login Test *****
+2023-11-08 15:52:56,090 - root - INFO - ***** verifying user_login_failed *****
+2023-11-08 15:52:57,087 - root - INFO - ***** user_login_failed test is passed 
+2023-11-08 15:52:57,087 - root - INFO - ***** user_login_failed is valideted *****
+2023-11-08 15:58:49,795 - root - INFO - ***** verifying User first_name *****
+2023-11-08 15:58:50,971 - root - INFO - ***** verifying User list *****
+2023-11-08 15:58:51,922 - root - INFO - ***** verifying single user *****
+2023-11-08 15:58:52,953 - root - INFO - ***** verifying user_not_found *****
+2023-11-08 15:58:53,872 - root - INFO - ***** user_not_found is validated
+2023-11-08 15:58:53,892 - root - INFO - ***** verifying new_user is created *****
+2023-11-08 15:58:54,882 - root - INFO - ***** verifying update_existing_user *****
+2023-11-08 15:58:55,960 - root - INFO - ***** verifying delete_existing_user *****
+2023-11-08 15:58:56,914 - root - INFO - ***** verifying user_signUp Sucessfully *****
+2023-11-08 15:58:57,894 - root - INFO - ***** verifying unSuccessfull register *****
+2023-11-08 15:58:58,870 - root - INFO - ***** verifying user_login Test *****
+2023-11-08 15:58:59,954 - root - INFO - ***** verifying user_login_failed *****
+2023-11-08 16:03:15,845 - root - INFO - ***** verifying User first_name *****
+2023-11-08 16:03:16,410 - root - INFO - ***** first_name is passed *****
+2023-11-08 16:03:16,411 - root - INFO - ***** user first_name validated *****
+2023-11-08 16:03:16,417 - root - INFO - ***** verifying User list *****
+2023-11-08 16:03:16,938 - root - INFO - ***** response code 200 is passed
+2023-11-08 16:03:16,939 - root - INFO - ***** User list validated t*****
+2023-11-08 16:03:16,950 - root - INFO - ***** verifying single user *****
+2023-11-08 16:03:17,504 - root - INFO - ***** Usertext is passed
+2023-11-08 16:03:17,505 - root - INFO - ***** SingleUser is validated *****
+2023-11-08 16:03:17,518 - root - INFO - ***** verifying user_not_found *****
+2023-11-08 16:03:18,049 - root - INFO - ***** user_not_found is validated
+2023-11-08 16:03:18,061 - root - INFO - ***** verifying new_user is created *****
+2023-11-08 16:03:19,044 - root - INFO - ***** creating new_user test is passed *****
+2023-11-08 16:03:19,045 - root - INFO - ***** creating new_user is validated *****
+2023-11-08 16:03:19,059 - root - INFO - ***** verifying update_existing_user *****
+2023-11-08 16:03:19,988 - root - INFO - ***** update_existing_user test is passed *****
+2023-11-08 16:03:19,989 - root - INFO - ***** update_existing_user is validated *****
+2023-11-08 16:03:19,999 - root - INFO - ***** verifying delete_existing_user *****
+2023-11-08 16:03:20,901 - root - INFO - ***** delete_existing_user is validated
+2023-11-08 16:03:20,913 - root - INFO - ***** verifying user_signUp Sucessfully *****
+2023-11-08 16:03:21,836 - root - INFO - ***** user_signUp is validated Successfully *****
+2023-11-08 16:03:21,843 - root - INFO - ***** verifying unSuccessfull register *****
+2023-11-08 16:03:22,757 - root - INFO - ***** unSuccessfull regster validated *****
+2023-11-08 16:03:22,771 - root - INFO - ***** verifying user_login Test *****
+2023-11-08 16:03:23,680 - root - INFO - ***** verifying user_login Test *****
+2023-11-08 16:03:23,693 - root - INFO - ***** verifying user_login_failed *****
+2023-11-08 16:03:24,603 - root - INFO - ***** user_login_failed test is passed 
+2023-11-08 16:03:24,604 - root - INFO - ***** user_login_failed is valideted *****
+2023-11-08 16:37:39,784 - root - INFO - ***** verifying User first_name *****
+2023-11-08 16:37:40,519 - root - INFO - ***** first_name is passed *****
+2023-11-08 16:37:40,519 - root - INFO - ***** user first_name validated *****
+2023-11-08 16:37:40,526 - root - INFO - ***** verifying User list *****
+2023-11-08 16:37:41,216 - root - INFO - ***** response code 200 is passed
+2023-11-08 16:37:41,218 - root - INFO - ***** User list validated t*****
+2023-11-08 16:37:41,233 - root - INFO - ***** verifying single user *****
+2023-11-08 16:37:42,016 - root - INFO - ***** Usertext is passed
+2023-11-08 16:37:42,017 - root - INFO - ***** SingleUser is validated *****
+2023-11-08 16:37:42,033 - root - INFO - ***** verifying user_not_found *****
+2023-11-08 16:37:42,732 - root - INFO - ***** user_not_found is validated
+2023-11-08 16:37:42,738 - root - INFO - ***** verifying new_user is created *****
+2023-11-08 16:37:43,803 - root - INFO - ***** creating new_user test is passed *****
+2023-11-08 16:37:43,804 - root - INFO - ***** creating new_user is validated *****
+2023-11-08 16:37:43,818 - root - INFO - ***** verifying update_existing_user *****
+2023-11-08 16:37:44,957 - root - INFO - ***** update_existing_user test is passed *****
+2023-11-08 16:37:44,957 - root - INFO - ***** update_existing_user is validated *****
+2023-11-08 16:37:44,971 - root - INFO - ***** verifying delete_existing_user *****
+2023-11-08 16:37:46,081 - root - INFO - ***** delete_existing_user is validated
+2023-11-08 16:37:46,095 - root - INFO - ***** verifying user_signUp Sucessfully *****
+2023-11-08 16:37:47,212 - root - INFO - ***** user_signUp is validated Successfully *****
+2023-11-08 16:37:47,228 - root - INFO - ***** verifying unSuccessfull register *****
+2023-11-08 16:37:48,340 - root - INFO - ***** unSuccessfull regster validated *****
+2023-11-08 16:37:48,355 - root - INFO - ***** verifying user_login Test *****
+2023-11-08 16:37:49,565 - root - INFO - ***** verifying user_login Test *****
+2023-11-08 16:37:49,580 - root - INFO - ***** verifying user_login_failed *****
+2023-11-08 16:37:50,892 - root - INFO - ***** user_login_failed test is passed 
+2023-11-08 16:37:50,893 - root - INFO - ***** user_login_failed is valideted *****
+2023-11-08 16:38:36,039 - root - INFO - ***** verifying User first_name *****
+2023-11-08 16:38:36,739 - root - INFO - ***** first_name is passed *****
+2023-11-08 16:38:36,739 - root - INFO - ***** user first_name validated *****
+2023-11-08 16:38:36,745 - root - INFO - ***** verifying User list *****
+2023-11-08 16:38:37,550 - root - INFO - ***** response code 200 is passed
+2023-11-08 16:38:37,552 - root - INFO - ***** User list validated t*****
+2023-11-08 16:38:37,567 - root - INFO - ***** verifying single user *****
+2023-11-08 16:38:38,278 - root - INFO - ***** Usertext is passed
+2023-11-08 16:38:38,279 - root - INFO - ***** SingleUser is validated *****
+2023-11-08 16:38:38,292 - root - INFO - ***** verifying user_not_found *****
+2023-11-08 16:38:39,091 - root - INFO - ***** user_not_found is validated
+2023-11-08 16:38:39,107 - root - INFO - ***** verifying new_user is created *****
+2023-11-08 16:38:40,303 - root - INFO - ***** creating new_user test is passed *****
+2023-11-08 16:38:40,304 - root - INFO - ***** creating new_user is validated *****
+2023-11-08 16:38:40,316 - root - INFO - ***** verifying update_existing_user *****
+2023-11-08 16:38:41,481 - root - INFO - ***** update_existing_user test is passed *****
+2023-11-08 16:38:41,481 - root - INFO - ***** update_existing_user is validated *****
+2023-11-08 16:38:41,495 - root - INFO - ***** verifying delete_existing_user *****
+2023-11-08 16:38:42,607 - root - INFO - ***** delete_existing_user is validated
+2023-11-08 16:38:42,620 - root - INFO - ***** verifying user_signUp Sucessfully *****
+2023-11-08 16:38:43,731 - root - INFO - ***** user_signUp is validated Successfully *****
+2023-11-08 16:38:43,738 - root - INFO - ***** verifying unSuccessfull register *****
+2023-11-08 16:38:44,861 - root - INFO - ***** unSuccessfull regster validated *****
+2023-11-08 16:38:44,875 - root - INFO - ***** verifying user_login Test *****
+2023-11-08 16:38:45,985 - root - INFO - ***** verifying user_login Test *****
+2023-11-08 16:38:45,999 - root - INFO - ***** verifying user_login_failed *****
+2023-11-08 16:38:47,110 - root - INFO - ***** user_login_failed test is passed 
+2023-11-08 16:38:47,110 - root - INFO - ***** user_login_failed is valideted *****
+2023-11-08 16:40:59,057 - root - INFO - ***** verifying single user *****
+2023-11-08 16:40:59,712 - root - INFO - ***** Usertext is passed
+2023-11-08 16:40:59,732 - root - INFO - ***** SingleUser is validated *****
+2023-11-08 16:41:32,316 - root - INFO - ***** verifying single user *****
+2023-11-08 16:41:33,807 - root - INFO - ***** Usertext is passed
+2023-11-08 16:41:33,865 - root - INFO - ***** SingleUser is validated *****
+2023-11-08 16:42:48,521 - root - INFO - ***** verifying single user *****
+2023-11-08 16:42:49,231 - root - INFO - API response {'data': {'id': 2, 'email': 'janet.weaver@reqres.in', 'first_name': 'Janet', 'last_name': 'Weaver', 'avatar': 'https://reqres.in/img/faces/2-image.jpg'}, 'support': {'url': 'https://reqres.in/#support-heading', 'text': 'To keep ReqRes free, contributions towards server costs are appreciated!'}}
+2023-11-08 16:42:49,231 - root - INFO - ***** Usertext is passed
+2023-11-08 16:42:49,262 - root - INFO - ***** SingleUser is validated *****
+2023-11-08 16:44:03,280 - root - INFO - ***** verifying User list *****
+2023-11-08 16:44:03,962 - root - INFO - ***** response code 200 is passed
+2023-11-08 16:44:03,962 - root - INFO - ***** User list validated t*****
+2023-11-08 16:44:36,864 - root - INFO - ***** verifying User list *****
+2023-11-08 16:44:37,847 - root - INFO - the api response {'page': 2, 'per_page': 6, 'total': 12, 'total_pages': 2, 'data': [{'id': 7, 'email': 'michael.lawson@reqres.in', 'first_name': 'Michael', 'last_name': 'Lawson', 'avatar': 'https://reqres.in/img/faces/7-image.jpg'}, {'id': 8, 'email': 'lindsay.ferguson@reqres.in', 'first_name': 'Lindsay', 'last_name': 'Ferguson', 'avatar': 'https://reqres.in/img/faces/8-image.jpg'}, {'id': 9, 'email': 'tobias.funke@reqres.in', 'first_name': 'Tobias', 'last_name': 'Funke', 'avatar': 'https://reqres.in/img/faces/9-image.jpg'}, {'id': 10, 'email': 'byron.fields@reqres.in', 'first_name': 'Byron', 'last_name': 'Fields', 'avatar': 'https://reqres.in/img/faces/10-image.jpg'}, {'id': 11, 'email': 'george.edwards@reqres.in', 'first_name': 'George', 'last_name': 'Edwards', 'avatar': 'https://reqres.in/img/faces/11-image.jpg'}, {'id': 12, 'email': 'rachel.howell@reqres.in', 'first_name': 'Rachel', 'last_name': 'Howell', 'avatar': 'https://reqres.in/img/faces/12-image.jpg'}], 'support': {'url': 'https://reqres.in/#support-heading', 'text': 'To keep ReqRes free, contributions towards server costs are appreciated!'}}
+2023-11-08 16:44:37,847 - root - INFO - ***** response code 200 is passed
+2023-11-08 16:44:37,847 - root - INFO - ***** User list validated t*****
+2023-11-08 16:45:24,191 - root - INFO - ***** verifying User list *****
+2023-11-08 16:45:24,812 - root - INFO - the api response {'page': 2, 'per_page': 6, 'total': 12, 'total_pages': 2, 'data': [{'id': 7, 'email': 'michael.lawson@reqres.in', 'first_name': 'Michael', 'last_name': 'Lawson', 'avatar': 'https://reqres.in/img/faces/7-image.jpg'}, {'id': 8, 'email': 'lindsay.ferguson@reqres.in', 'first_name': 'Lindsay', 'last_name': 'Ferguson', 'avatar': 'https://reqres.in/img/faces/8-image.jpg'}, {'id': 9, 'email': 'tobias.funke@reqres.in', 'first_name': 'Tobias', 'last_name': 'Funke', 'avatar': 'https://reqres.in/img/faces/9-image.jpg'}, {'id': 10, 'email': 'byron.fields@reqres.in', 'first_name': 'Byron', 'last_name': 'Fields', 'avatar': 'https://reqres.in/img/faces/10-image.jpg'}, {'id': 11, 'email': 'george.edwards@reqres.in', 'first_name': 'George', 'last_name': 'Edwards', 'avatar': 'https://reqres.in/img/faces/11-image.jpg'}, {'id': 12, 'email': 'rachel.howell@reqres.in', 'first_name': 'Rachel', 'last_name': 'Howell', 'avatar': 'https://reqres.in/img/faces/12-image.jpg'}], 'support': {'url': 'https://reqres.in/#support-heading', 'text': 'To keep ReqRes free, contributions towards server costs are appreciated!'}}
+2023-11-08 16:45:24,812 - root - INFO - ***** response code 200 is passed
+2023-11-08 16:45:24,813 - root - INFO - ***** User list validated t*****
+2023-11-08 16:48:26,211 - root - INFO - ***** verifying User list *****
+2023-11-08 16:48:26,875 - root - INFO - the api response {'page': 2, 'per_page': 6, 'total': 12, 'total_pages': 2, 'data': [{'id': 7, 'email': 'michael.lawson@reqres.in', 'first_name': 'Michael', 'last_name': 'Lawson', 'avatar': 'https://reqres.in/img/faces/7-image.jpg'}, {'id': 8, 'email': 'lindsay.ferguson@reqres.in', 'first_name': 'Lindsay', 'last_name': 'Ferguson', 'avatar': 'https://reqres.in/img/faces/8-image.jpg'}, {'id': 9, 'email': 'tobias.funke@reqres.in', 'first_name': 'Tobias', 'last_name': 'Funke', 'avatar': 'https://reqres.in/img/faces/9-image.jpg'}, {'id': 10, 'email': 'byron.fields@reqres.in', 'first_name': 'Byron', 'last_name': 'Fields', 'avatar': 'https://reqres.in/img/faces/10-image.jpg'}, {'id': 11, 'email': 'george.edwards@reqres.in', 'first_name': 'George', 'last_name': 'Edwards', 'avatar': 'https://reqres.in/img/faces/11-image.jpg'}, {'id': 12, 'email': 'rachel.howell@reqres.in', 'first_name': 'Rachel', 'last_name': 'Howell', 'avatar': 'https://reqres.in/img/faces/12-image.jpg'}], 'support': {'url': 'https://reqres.in/#support-heading', 'text': 'To keep ReqRes free, contributions towards server costs are appreciated!'}}
+2023-11-08 16:48:26,875 - root - INFO - ***** response code 200 is passed
+2023-11-08 16:48:26,875 - root - INFO - ***** User list validated t*****
+2023-11-08 16:53:14,339 - root - INFO - ***** verifying User list *****
+2023-11-08 16:53:15,000 - root - INFO - the api response {'page': 1, 'per_page': 6, 'total': 12, 'total_pages': 2, 'data': [{'id': 1, 'email': 'george.bluth@reqres.in', 'first_name': 'George', 'last_name': 'Bluth', 'avatar': 'https://reqres.in/img/faces/1-image.jpg'}, {'id': 2, 'email': 'janet.weaver@reqres.in', 'first_name': 'Janet', 'last_name': 'Weaver', 'avatar': 'https://reqres.in/img/faces/2-image.jpg'}, {'id': 3, 'email': 'emma.wong@reqres.in', 'first_name': 'Emma', 'last_name': 'Wong', 'avatar': 'https://reqres.in/img/faces/3-image.jpg'}, {'id': 4, 'email': 'eve.holt@reqres.in', 'first_name': 'Eve', 'last_name': 'Holt', 'avatar': 'https://reqres.in/img/faces/4-image.jpg'}, {'id': 5, 'email': 'charles.morris@reqres.in', 'first_name': 'Charles', 'last_name': 'Morris', 'avatar': 'https://reqres.in/img/faces/5-image.jpg'}, {'id': 6, 'email': 'tracey.ramos@reqres.in', 'first_name': 'Tracey', 'last_name': 'Ramos', 'avatar': 'https://reqres.in/img/faces/6-image.jpg'}], 'support': {'url': 'https://reqres.in/#support-heading', 'text': 'To keep ReqRes free, contributions towards server costs are appreciated!'}}
+2023-11-08 16:53:15,000 - root - INFO - ***** response code 200 is passed
+2023-11-08 16:53:15,000 - root - INFO - ***** User list validated t*****
